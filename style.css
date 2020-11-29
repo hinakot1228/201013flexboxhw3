@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+section {
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+}
+header {
+    background-color: red;
+    height: 30%;
+}
+main {
+    height: 60%;
+    display: flex;
+}
+img {
+    width: 50%;
+}
+.blue {
+    background-color: blue;
+    width: 50%;
+}
+footer {
+    height: 10%;
+    background-color: green;
+}
